@@ -1,5 +1,5 @@
 <h1 align="center">My wonderful world of macOS 💻 </h1>
-<blockquote class="trello-card"><a href="https://trello.com/c/8mxkaeB1/81-sprint-2-terraform-analytics-v20-release">SPRINT 2: Terraform-Analytics v2.0 Release</a></blockquote><script src="https://trello.com/embed.js"></script>
+
 
 <div align="center">
 <a href="https://www.patreon.com/nikitavoloboev">
